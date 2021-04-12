@@ -1,0 +1,1 @@
+# cnpj-check-plataform
